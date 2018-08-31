@@ -5,7 +5,7 @@ def second_challenge
    meat: ["chicken", "steak", "salmon"],
    grains: ["rice", "pasta"]
   }
-groceries.values.collect 
+groceries.values.collect.each 
   #code your solution here!
 
   
